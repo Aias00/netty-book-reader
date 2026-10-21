@@ -1,0 +1,21 @@
+{
+  "title": "从零开始学 Netty",
+  "subtitle": "网络基础、可运行示例与协议实战",
+  "author": "Aias00",
+  "lang": "zh-CN",
+  "repository": "Aias00/netty-book-reader",
+  "slug": "netty-book-reader",
+  "version": "1.0.0",
+  "date": "2026-10-21",
+  "rights": "本书为原创教学整理；Netty 名称与所引用资料的权利归各自权利人所有。",
+  "description": "从网络基础与 TCP 行协议开始，学习 Pipeline、ByteBuf、消息边界和连接生命周期，用 Java 17 与 Netty 4.1 的可运行工程和边界测试理解网络编程。",
+  "site_url": "https://aias00.github.io/netty-book-reader/",
+  "short_title": "从零开始学 Netty",
+  "cover_lines": [
+    "从零开始",
+    "学 Netty"
+  ],
+  "cover_label": "JAVA NETWORK ENGINEERING",
+  "cover_subtitle": "网络基础 · 可运行示例 · 协议实战",
+  "include_code": false
+}

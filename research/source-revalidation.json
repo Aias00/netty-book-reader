@@ -1,0 +1,65 @@
+[
+  {
+    "id": "guide",
+    "url": "https://netty.io/wiki/user-guide-for-4.x.html",
+    "checked_at": "2026-10-21T08:10:16.285640+00:00",
+    "ok": true,
+    "bytes": 109324,
+    "fixed_version_present": null,
+    "error": ""
+  },
+  {
+    "id": "reference-count",
+    "url": "https://netty.io/wiki/reference-counted-objects.html",
+    "checked_at": "2026-10-21T08:10:15.124705+00:00",
+    "ok": true,
+    "bytes": 62217,
+    "fixed_version_present": null,
+    "error": ""
+  },
+  {
+    "id": "bytebuf",
+    "url": "https://netty.io/4.1/api/io/netty/buffer/ByteBuf.html",
+    "checked_at": "2026-10-21T08:10:19.468541+00:00",
+    "ok": true,
+    "bytes": 388052,
+    "fixed_version_present": null,
+    "error": ""
+  },
+  {
+    "id": "pipeline",
+    "url": "https://netty.io/4.1/api/io/netty/channel/ChannelPipeline.html",
+    "checked_at": "2026-10-21T08:10:18.057449+00:00",
+    "ok": true,
+    "bytes": 149873,
+    "fixed_version_present": null,
+    "error": ""
+  },
+  {
+    "id": "framing",
+    "url": "https://netty.io/4.1/api/io/netty/handler/codec/LengthFieldBasedFrameDecoder.html",
+    "checked_at": "2026-10-21T08:10:15.524817+00:00",
+    "ok": true,
+    "bytes": 68556,
+    "fixed_version_present": null,
+    "error": ""
+  },
+  {
+    "id": "idle",
+    "url": "https://netty.io/4.1/api/io/netty/handler/timeout/IdleStateHandler.html",
+    "checked_at": "2026-10-21T08:10:17.498191+00:00",
+    "ok": true,
+    "bytes": 81077,
+    "fixed_version_present": null,
+    "error": ""
+  },
+  {
+    "id": "versions",
+    "url": "https://repo.maven.apache.org/maven2/io/netty/netty-all/maven-metadata.xml",
+    "checked_at": "2026-10-21T08:10:12.709515+00:00",
+    "ok": true,
+    "bytes": 10011,
+    "fixed_version_present": true,
+    "error": ""
+  }
+]

@@ -1,0 +1,9 @@
+.DS_Store
+**/target/
+__pycache__/
+*.pyc
+site/
+.build/
+.tools/
+.publication/
+node_modules/

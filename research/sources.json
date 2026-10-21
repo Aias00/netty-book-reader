@@ -1,0 +1,51 @@
+[
+  {
+    "id": "guide",
+    "url": "https://netty.io/wiki/user-guide-for-4.x.html",
+    "file": "research/guide.html",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "id": "reference-count",
+    "url": "https://netty.io/wiki/reference-counted-objects.html",
+    "file": "research/reference-count.html",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "id": "bytebuf",
+    "url": "https://netty.io/4.1/api/io/netty/buffer/ByteBuf.html",
+    "file": "research/bytebuf.html",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "id": "pipeline",
+    "url": "https://netty.io/4.1/api/io/netty/channel/ChannelPipeline.html",
+    "file": "research/pipeline.html",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "id": "framing",
+    "url": "https://netty.io/4.1/api/io/netty/handler/codec/LengthFieldBasedFrameDecoder.html",
+    "file": "research/framing.html",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "id": "idle",
+    "url": "https://netty.io/4.1/api/io/netty/handler/timeout/IdleStateHandler.html",
+    "file": "research/idle.html",
+    "ok": true,
+    "error": ""
+  },
+  {
+    "id": "versions",
+    "url": "https://repo.maven.apache.org/maven2/io/netty/netty-all/maven-metadata.xml",
+    "file": "research/versions.xml",
+    "ok": true,
+    "error": ""
+  }
+]

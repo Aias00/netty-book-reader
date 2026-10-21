@@ -1,0 +1,12 @@
+{
+  "java_client": [
+    "收到：你好，Netty",
+    "再见"
+  ],
+  "socket_client": [
+    "收到：hello",
+    "收到：world",
+    "再见"
+  ],
+  "passed": true
+}

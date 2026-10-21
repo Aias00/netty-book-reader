@@ -1,0 +1,3 @@
+research/*.html -whitespace
+*.epub binary
+*.zip binary

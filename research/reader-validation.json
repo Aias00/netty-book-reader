@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-21",
+  "result": "PASS",
+  "body_chapters": 15,
+  "appendices": 4,
+  "reading_units": 20,
+  "java": "21.0.12.1",
+  "maven": "3.10.0",
+  "java_release": 17,
+  "netty": "4.1.139.Final",
+  "junit_tests": 5,
+  "epubcheck": "5.3.0",
+  "epubcheck_errors": 0,
+  "epubcheck_warnings": 0,
+  "epub_sha256": "089c765c69e88924780469e191c91047dc241d9576a6cb3125a040a02d65a711",
+  "source_and_formats_match": true,
+  "browser_checks": [
+    "light default under dark OS",
+    "EPUB links",
+    "static chapters",
+    "search",
+    "font persistence",
+    "shared aias-reader-theme and tab sync",
+    "mobile native contents",
+    "all 20 units at 320/390px without page overflow",
+    "no-JS reading and pagination",
+    "storage denied",
+    "downloads",
+    "no JavaScript errors"
+  ],
+  "theme_files": {
+    "reader.css": "c7c4e48dc43b42b8c62926a880ae418665140786bdb947a0bc9f05836b337876",
+    "reader.js": "acdae91aa5f86d2d40437170b7fd261420711e332a297007b566ef4104230d2a"
+  }
+}
