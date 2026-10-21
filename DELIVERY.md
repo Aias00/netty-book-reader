@@ -17,9 +17,17 @@
 - EPUBCheck 5.3.0：0 错误、0 警告；内部 XML、目录、源码覆盖检查通过。
 - Chromium：浅色默认、深色跨标签同步、目录、搜索、字号、存储不可用回退均通过；20 个阅读单元在 320/390px 无页面横向溢出，禁用 JavaScript 可阅读和翻页。已目视检查浅色桌面与 320px 深色截图。证据：`research/reader-validation.json`。
 
-## 正在执行
+## 已发布
 
-公开仓库发布、Actions、Pages 和 Release 下载验证。
+- 在线阅读：<https://aias00.github.io/netty-book-reader/>
+- 公开源码：<https://github.com/Aias00/netty-book-reader>，产品源码提交 `a6fd0ce6a1c985c8b6e6a76003d9a54c9dd5a822`。
+- 首次发布：<https://github.com/Aias00/netty-book-reader/releases/tag/v1.0.0>
+- EPUB：<https://github.com/Aias00/netty-book-reader/releases/download/v1.0.0/netty-book-reader.epub>
+- Actions：<https://github.com/Aias00/netty-book-reader/actions/runs/39568186174>，Java/TCP、构建一致性、EPUBCheck、浏览器和 Pages 部署全部成功。
+- 在线站再次用真实 Chromium 完整复测通过；20 个阅读单元在 320/390px 均无页面横向溢出，目录、搜索、字号、共享主题、无 JavaScript 翻页和下载均通过。
+- Release 直接使用上述 CI 产物；在线 EPUB、Release EPUB 与 CI 文件三者 SHA-256 相同：`5f1c824185cf9bb728b08c0cbb43429a517921ce8a0e116ccd5ef7513b29c68d`。线上实际下载后检查 EPUB mimetype 通过。
+- 发布证据见 `research/publication-validation.json`。后续证据文档提交不改变本次已验收的产品源码和发布产物。原 `netty-book` 仍保持 private。
+
 
 ## 验证范围
 

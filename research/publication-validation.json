@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-21",
+  "result": "PASS",
+  "published_commit": "a6fd0ce6a1c985c8b6e6a76003d9a54c9dd5a822",
+  "workflow_run": "https://github.com/Aias00/netty-book-reader/actions/runs/39568186174",
+  "workflow_conclusion": "success",
+  "online": "https://aias00.github.io/netty-book-reader/",
+  "release": "https://github.com/Aias00/netty-book-reader/releases/tag/v1.0.0",
+  "browser_online_checks": "20 reading units at 320/390px; theme, contents, search, size, no-JS and downloads passed",
+  "downloads": [
+    {
+      "kind": "pages",
+      "url": "https://aias00.github.io/netty-book-reader/downloads/netty-book-reader.epub",
+      "bytes": 69938,
+      "sha256": "5f1c824185cf9bb728b08c0cbb43429a517921ce8a0e116ccd5ef7513b29c68d",
+      "epub_mimetype_valid": true
+    },
+    {
+      "kind": "release",
+      "url": "https://github.com/Aias00/netty-book-reader/releases/download/v1.0.0/netty-book-reader.epub",
+      "bytes": 69938,
+      "sha256": "5f1c824185cf9bb728b08c0cbb43429a517921ce8a0e116ccd5ef7513b29c68d",
+      "epub_mimetype_valid": true
+    }
+  ],
+  "private_authoring_repository_visibility": "private"
+}
